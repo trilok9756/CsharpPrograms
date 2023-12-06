@@ -1,0 +1,7 @@
+C:\Users\navee\source\repos\ques 10\ques 10\bin\Debug\ques 10.exe.config
+C:\Users\navee\source\repos\ques 10\ques 10\bin\Debug\ques 10.exe
+C:\Users\navee\source\repos\ques 10\ques 10\bin\Debug\ques 10.pdb
+C:\Users\navee\source\repos\ques 10\ques 10\obj\Debug\ques 10.csproj.AssemblyReference.cache
+C:\Users\navee\source\repos\ques 10\ques 10\obj\Debug\ques 10.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\ques 10\ques 10\obj\Debug\ques 10.exe
+C:\Users\navee\source\repos\ques 10\ques 10\obj\Debug\ques 10.pdb

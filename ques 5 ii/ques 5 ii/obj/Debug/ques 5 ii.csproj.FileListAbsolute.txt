@@ -1,0 +1,7 @@
+C:\Users\navee\source\repos\ques 5 ii\ques 5 ii\bin\Debug\ques 5 ii.exe.config
+C:\Users\navee\source\repos\ques 5 ii\ques 5 ii\bin\Debug\ques 5 ii.exe
+C:\Users\navee\source\repos\ques 5 ii\ques 5 ii\bin\Debug\ques 5 ii.pdb
+C:\Users\navee\source\repos\ques 5 ii\ques 5 ii\obj\Debug\ques 5 ii.csproj.AssemblyReference.cache
+C:\Users\navee\source\repos\ques 5 ii\ques 5 ii\obj\Debug\ques 5 ii.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\ques 5 ii\ques 5 ii\obj\Debug\ques 5 ii.exe
+C:\Users\navee\source\repos\ques 5 ii\ques 5 ii\obj\Debug\ques 5 ii.pdb

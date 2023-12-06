@@ -1,0 +1,7 @@
+C:\Users\navee\source\repos\que2\que2\bin\Debug\que2.exe.config
+C:\Users\navee\source\repos\que2\que2\bin\Debug\que2.exe
+C:\Users\navee\source\repos\que2\que2\bin\Debug\que2.pdb
+C:\Users\navee\source\repos\que2\que2\obj\Debug\que2.csproj.AssemblyReference.cache
+C:\Users\navee\source\repos\que2\que2\obj\Debug\que2.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\que2\que2\obj\Debug\que2.exe
+C:\Users\navee\source\repos\que2\que2\obj\Debug\que2.pdb
